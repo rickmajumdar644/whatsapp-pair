@@ -1,7 +1,7 @@
 {
   "name": "dark-killer-pairing",
   "version": "1.0.0",
-  "description": "WhatsApp Pairing Code Generator by Mr. Rick",
+  "description": "WhatsApp Pairing Code Generator for Indian Numbers by Mr. Rick",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
